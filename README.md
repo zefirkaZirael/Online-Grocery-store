@@ -1,2 +1,2 @@
 # Online-Grocery-store
-Online Grocery store with Documentation on PHP
+Online Grocery store with DB on PHP
